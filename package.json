@@ -1,0 +1,17 @@
+{
+  "name": "audiopoli-fb-feed",
+  "version": "0.0.1",
+  "description": "REST API for Audiopoli FB feed",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "~3.4.x",
+    "fbgraph": "0.2.11",
+    "lodash": "2.4.1"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
